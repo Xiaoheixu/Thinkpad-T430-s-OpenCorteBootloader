@@ -1,1 +1,1 @@
-# Lenovo-Thinkpad-T430-s-OpenCore
+# Lenovo-Thinkpad-T430-s-OpenCore/Clover
