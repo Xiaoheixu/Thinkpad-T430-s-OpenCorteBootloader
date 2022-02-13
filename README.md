@@ -1,7 +1,7 @@
 
-# T430-OpenCore
+# Thinkpad-T430-s OpenCorteBootloader
 
-这里是T430/s-OpenCore引导下载地方
+欢迎
 
 
 
