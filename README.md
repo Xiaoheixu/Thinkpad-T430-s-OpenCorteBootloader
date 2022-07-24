@@ -98,9 +98,11 @@ MacOS High Sierra 10.13.6 (17G2112)
 
 作者还是个苦逼在校生，更新可能会慢一些 但是我我尽力 ，可能无法做到很多人满意 但我会尽量去做好 
 
-| 微信                                                       | 支付宝                                               | |                                                    
-| ---------------------------------------------------------- | ---------------------------------------------------- | 
-| ![image](https://tva1.sinaimg.cn/large/e6c9d24ely1h4ictm8olyj20af0ah0ti.jpg) | ![image](https://tva1.sinaimg.cn/large/e6c9d24ely1h4ics9jv5hj20h00h0dhf.jpg) | 
+![image](https://tva1.sinaimg.cn/large/e6c9d24ely1h4ictm8olyj20af0ah0ti.jpg) 
+
+![image](https://tva1.sinaimg.cn/large/e6c9d24ely1h4ics9jv5hj20h00h0dhf.jpg) 
+
+
 ## 致谢
 
 感谢 [apple](https://www.apple.com.cn/) 提供的 MacOS  
