@@ -88,7 +88,6 @@ MacOS High Sierra 10.13.6 (17G2112)
 - 无线网络（更换Bcm94360cdp）
 - 蓝牙（更换Bcm94360cdp）
 - 触控板 （部分手势支持）
-- 随航（有线/无线）
 - iMessage/FaceTime
 
 ## 不能正常使用的功能
