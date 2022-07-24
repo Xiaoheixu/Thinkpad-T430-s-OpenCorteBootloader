@@ -10,7 +10,9 @@
 
 解锁bios白名单教程：
 1：https://post.smzdm.com/p/a4wmd65x/
+
 2.https://bbs.ibmnb.com/forum.php?mod=viewthread&tid=1944574&highlight=T430
+
 解锁bios白名单工具：链接：https://pan.baidu.com/s/1nH9T15mmnlaNBmUhuUHuAg
 提取码：bpvj
 
