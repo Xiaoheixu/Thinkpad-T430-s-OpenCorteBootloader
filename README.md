@@ -14,7 +14,10 @@
 
 2.https://bbs.ibmnb.com/forum.php?mod=viewthread&tid=1944574&highlight=T430
 
-解锁bios白名单工具：链接：https://pan.baidu.com/s/1nH9T15mmnlaNBmUhuUHuAg
+解锁bios白名单工具：
+
+链接：https://pan.baidu.com/s/1nH9T15mmnlaNBmUhuUHuAg
+
 提取码：bpvj
 
 博客链接：https://macpc.top(目前处于关停状态预计在10月份将再次开通）
