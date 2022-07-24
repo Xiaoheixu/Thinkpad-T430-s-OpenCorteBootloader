@@ -9,6 +9,7 @@
 注意：此系列笔记本电脑有WiFi白名单， 不可以更换任意网卡，
 
 解锁bios白名单教程：
+
 1：https://post.smzdm.com/p/a4wmd65x/
 
 2.https://bbs.ibmnb.com/forum.php?mod=viewthread&tid=1944574&highlight=T430
