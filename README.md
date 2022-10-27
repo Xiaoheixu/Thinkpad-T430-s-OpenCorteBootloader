@@ -85,8 +85,8 @@ MacOS High Sierra 10.13.6 (17G2112)
 - Mac App Store Apple ID正常运行
 - CPU变频
 - 睡眠唤醒（鼠标，键盘、电源键唤醒均正常）
-- 无线网络（更换Bcm94360cdp）
-- 蓝牙（更换Bcm94360cdp）
+- 无线网络（更换Bcm943602cdp）
+- 蓝牙（更换Bcm943602cdp）
 - 触控板 （部分手势支持）
 - iMessage/FaceTime
 
