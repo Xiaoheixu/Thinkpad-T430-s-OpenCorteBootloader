@@ -27,7 +27,7 @@
 | 硬件      | 硬件      |
 |----------|:-------------------------|
 | CPU     | i5-3320M/i7-3632QM                 |
-| 内存     | 4*4双通道                |
+| 内存     | 8*8双通道                |
 | 硬盘     | 240G台电/1T杂牌Msata     |
 | 网卡     | Bcm94360HMB/Bcm943224HMP |
 | 蓝牙     | Bcm20702A0               |
@@ -37,29 +37,30 @@
 
 ## 适用系统
 
+MacOS Ventura13.x  
 MacOS Monterey 12.x  
 MacOS Big Sur 11.x  
 MacOS Catalina 10.15.x  
 MacOS Mojave 10.14.x  
-MacOS High Sierra 10.13.6 (17G2112)
+MacOS High Sierra 10.13.6 (17G65)
 
 
 ## 推荐镜像：
 | 无需特殊操作 | 需要特殊操作 | 目前难产 |
 |--------------|:-------------|:-------------|
-|10.1x.x| 12.x    |13.x    |
+|10.1x.x| 12.x/13.x.x    |None    |
 
 
 ## 适用型号
 
-- T430/T430s/T430i
+- T430/T430s
 
 ## 发布
 
-最后发布的版本是 0.8.3前往 [Release Page](https://github.com/Xiaoheixu/Thinkpad-T430-s-OpenCorteBootloader/releases/tag/T430-0.8.3) 。
+最后发布的版本是 v0.1.1前往 [Release Page](https://github.com/Xiaoheixu/Thinkpad-T430-s-OpenCorteBootloader/releases/tag/T430-0.8.6.1) 。
 
 ## 需要什么
-- 下载好的 MacOS 镜像（支持 macOS High Sierra (10.13.6) - macOS MacOS Monterey 的镜像安装）
+- 下载好的 MacOS 镜像（支持 macOS High Sierra (10.13.6) - macOS MacOS Ventura 的镜像安装）
 - 16GB U盘
 
 ## BIOS确保设置
