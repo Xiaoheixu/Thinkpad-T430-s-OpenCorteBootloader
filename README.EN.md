@@ -56,7 +56,7 @@ MacOS High Sierra 10.13.6 (17G65)
 
 ## Releases
 
-The final version is v0.1.1 to [Release Page] (https://github.com/xiaohehexu/thinkpad-t430-s-opencortelateloader/releases/tag/t430-0.8.6.1).
+The final version is v0.1.1 to [Release Page](https://github.com/xiaohehexu/thinkpad-t430-s-opencortelateloader/releases/tag/t430-0.8.6.1).
 
 ## Requirements
 -The downloaded MacOS image (supports Macos High Sierra (10.13.6) - Macos Macos Ventura installation)
