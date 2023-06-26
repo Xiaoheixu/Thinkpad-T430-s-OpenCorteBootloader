@@ -60,6 +60,7 @@ The final version is v0.1.1 to [Release Page] (https://github.com/xiaohehexu/thi
 
 ## Requirements
 -The downloaded MacOS image (supports Macos High Sierra (10.13.6) - Macos Macos Ventura installation)
+
 -16GB USB Drive
 
 ## BIOS Settings
