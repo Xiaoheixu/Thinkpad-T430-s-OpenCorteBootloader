@@ -1,121 +1,213 @@
 ![image](https://tva1.sinaimg.cn/large/e6c9d24ely1h4ic1gkvrxj21340u0gqm.jpg)
 
-## 概述
-
-疑问解答QQ群：1095397835
-
-本项目的目的是让 LENOVO Thinkpad T430系列笔记本使用上 MacOS。
-
-注意：此系列笔记本电脑有WiFi白名单， 不可以更换任意网卡，
-
-解锁bios白名单教程：
-
-1：https://post.smzdm.com/p/a4wmd65x/
-
-2.https://bbs.ibmnb.com/forum.php?mod=viewthread&tid=1944574&highlight=T430
-
-解锁bios白名单工具：
-
-链接：https://pan.baidu.com/s/1nH9T15mmnlaNBmUhuUHuAg
-
-提取码：bpvj
-
-博客链接：https://macpc.top(目前处于关停状态预计在10月份将再次开通）
+##Overview
 
 
-## 我的配置：
-| 硬件      | 硬件      |
+
+Q&A group: 1095397835
+
+
+
+The purpose of this project is to enable the LENOVO ThinkPad T430 series notebook to use MacOS.
+
+
+
+Note: This series of laptops has a WiFi whitelist and cannot be replaced with any network card,
+
+
+
+Unlock bios whitelist tutorial:
+
+
+
+1: https://post.smzdm.com/p/a4wmd65x/
+
+
+
+two https://bbs.ibmnb.com/forum.php?mod=viewthread&tid=1944574&highlight=T430
+
+
+
+Unlock bios whitelist tool:
+
+
+
+Link: https://pan.baidu.com/s/1nH9T15mmnlaNBmUhuUHuAg
+
+
+
+Extract code: bpvj
+
+
+
+Blog link: https://macpc.top (Currently closed and expected to reopen in October)
+
+
+
+
+##My configuration:
+
+|Hardware | Hardware|
+
 |----------|:-------------------------|
-| CPU     | i5-3320M/i7-3632QM                 |
-| 内存     | 8*8双通道                |
-| 硬盘     | 240G台电/1T杂牌Msata     |
-| 网卡     | Bcm94360HMB/Bcm943224HMP |
-| 蓝牙     | Bcm20702A0               |
-| 显卡     | HD4000                   |
-| 系统版本 | 10.15.7～12.2Beta1        |
+
+|CPU | i5-3320M/i7-3632QM|
+
+|Memory | 8 * 8 dual channel|
+
+|Hard Disk | 240G Taiwan/1T Misbranded Msata|
+
+|Network card | Bcm94360HMB/Bcm943224HMP|
+
+|Bluetooth | Bcm20702A0|
+
+|Graphics Card | HD4000|
+
+|System version | 10.15.7~12.2Beta1|
 
 
-## 适用系统
 
-MacOS Ventura13.x  
-MacOS Monterey 12.x  
-MacOS Big Sur 11.x  
-MacOS Catalina 10.15.x  
-MacOS Mojave 10.14.x  
+
+##Applicable system
+
+
+
+MacOS Ventura13. x
+
+MacOS Monterey 12. x
+
+MacOS Big Sur 11. x
+
+MacOS Catalina 10.15. x
+
+MacOS Mojave 10.14. x
+
 MacOS High Sierra 10.13.6 (17G65)
 
 
-## 推荐镜像：
-| 无需特殊操作 | 需要特殊操作 | 目前难产 |
-|--------------|:-------------|:-------------|
+
+
+##Recommended image:
+
+|No special operations required | Special operations required | Currently difficult to deliver|
+
+|--------------|:-------------|
 |10.1x.x| 12.x/13.x.x    |None    |
 
 
-## 适用型号
-
-- T430/T430s
-
-## 发布
-
-最后发布的版本是 v0.1.1前往 [Release Page](https://github.com/Xiaoheixu/Thinkpad-T430-s-OpenCorteBootloader/releases/tag/T430-0.8.6.1) 。
-
-## 需要什么
-- 下载好的 MacOS 镜像（支持 macOS High Sierra (10.13.6) - macOS MacOS Ventura 的镜像安装）
-- 16GB U盘
-
-## BIOS确保设置
-- ACHI模式
-- CSM关闭
-- TV-D关闭
-- 升级BIOS版本（小白请勿操作）
-- 启用UEFI模式
-- 屏蔽独立显卡
-- 禁用安全启动。
-## 正常工作的功能
-- UEFI通过 Clover/OC 启动
-- 支持任意版本系统OTA升级到最新系统
-- 内置键盘
-- 原生USB3.0/USB2.0 
-- AppleHDA原生音频，包括耳机
-- 内置摄像头
-- 电源管理
-- 电池状态
-- 背光控制
-- 核显驱动
-- 有线以太网卡
-- Mac App Store Apple ID正常运行
-- CPU变频
-- 睡眠唤醒（鼠标，键盘、电源键唤醒均正常）
-- 无线网络（更换Bcm943602cdp）
-- 蓝牙（更换Bcm943602cdp）
-- 触控板 （部分手势支持）
-- iMessage/FaceTime
-
-## 不能正常使用的功能
-- VGA MINI DP 麦克风，因MINI DP 连接到已禁用的Nvidia专业卡，无法提供图像输出（独显版需要注意）VGA世界无解，在macOS Monterey里面麦克风有电流声 以下系统没有
+##Applicable models
 
 
-## 关于投喂
 
-作者还是个苦逼在校生，更新可能会慢一些 但是我我尽力 ，可能无法做到很多人满意 但我会尽量去做好 
-
-![image](https://tva1.sinaimg.cn/large/e6c9d24ely1h4ictm8olyj20af0ah0ti.jpg) 
-
-![image](https://tva1.sinaimg.cn/large/e6c9d24ely1h4ics9jv5hj20h00h0dhf.jpg) 
+-T430/T430s
 
 
-## 致谢
 
-感谢 [apple](https://www.apple.com.cn/) 提供的 MacOS  
+##Publish
 
-感谢 [acidanthera](https://github.com/acidanthera) 提供的绝大部分核心驱动 
 
-感谢 [dortania](https://github.com/dortania) 提供的HD4000的修补程序驱动 
 
-感谢 [daliansky](https://github.com/daliansky) 提供的OC-little
+The final released version is v0.1.1, go to the [Release Page]（ https://github.com/Xiaoheixu/Thinkpad-T430-s-OpenCorteBootloader/releases/tag/T430-0.8.6.1 ）.
 
-感谢 [OpenCore部件库](https://ocbook.tlhub.cn/?q=) 提供的OpenCore部件
 
-感谢 [zhen-zen](https://github.com/zhen-zen)提供的Yoga SMC
 
-感谢 [zxystd](https://github.com/OpenIntelWireless)提供的Intel WI-FI驱动
+##What is needed
+
+-Downloaded MacOS image (supports image installation for macOS High Sierra (10.13.6) - macOS MacOS Ventura)
+
+-16GB USB drive
+
+
+
+##BIOS Ensure Settings
+
+-ACHI mode
+
+-CSM Off
+
+-TV-D off
+
+-Upgrade BIOS version (do not operate Xiaobai)
+
+-Enable UEFI mode
+
+-Shield independent graphics card
+
+-Disable secure startup.
+
+##Functionality for normal operation
+
+-UEFI starts through Clover/OC
+
+-Support OTA upgrade to the latest system for any version
+
+-Built in keyboard
+
+-Native USB 3.0/USB 2.0
+
+-AppleHDA native audio, including headphones
+
+-Integrated camera
+
+-Power management
+
+-Battery status
+
+-Backlight control
+
+-Nuclear display driver
+
+-Wired Ethernet card
+
+-Mac App Store Apple ID is running normally
+
+-CPU frequency conversion
+
+-Sleep wake-up (mouse, keyboard, and power button wake-up are all normal)
+
+-Wireless network (replace Bcm943602cdp)
+
+-Bluetooth (replace Bcm943602cdp)
+
+-Touchpad (some gesture support)
+
+-IMessage/FaceTime
+
+
+
+##Functions that cannot be used normally
+
+-The VGA MINI DP microphone cannot provide image output due to its connection to a disabled Nvidia professional card (note for standalone versions). The VGA world has no solution, and the microphone has current sound in the macOS Monterey system
+
+
+
+
+##About feeding
+
+
+
+The author is still a struggling student on campus, and updates may be slower. However, I try my best and may not be able to meet the needs of many people, but I will try my best to do a good job
+
+
+
+! [image]（ https://tva1.sinaimg.cn/large/e6c9d24ely1h4ictm8olyj20af0ah0ti.jpg ）
+
+
+
+! [image]（ https://tva1.sinaimg.cn/large/e6c9d24ely1h4ics9jv5hj20h00h0dhf.jpg ）
+
+
+
+
+##Acknowledgement
+
+
+
+Thank you [apple]（ https://www.apple.com）
+
+Thank you [acidanthera]（ https://github.com/acidanthera ）The vast majority of core drivers provided
+Thank you [dortania]（ https://github.com/dortania ）Provided patch driver for HD4000
+Thank you [daliansky]（ https://github.com/daliansky ）OC title provided
+Thank you [OpenCore Part Library]（ https://ocbook.tlhub.cn/?q= ）OpenCore components provided
+Thank you（ https://github.com/zhen-zen ）Yoga SMC provided
+Thank you [zxystd]（ https://github.com/OpenIntelWireless ）Intel WI-FI driver provided
