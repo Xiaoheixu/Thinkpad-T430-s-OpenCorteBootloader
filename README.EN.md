@@ -23,15 +23,15 @@ Blog link: https://macpc.top (Temporaraly shutdown, expected to reopen in Octobe
 
 
 ## My configuration:
-| Hardware | Hardware |
-
-| CPU | i5-3320m/i7-3632qm |
-| Memory | 8*8 dual channel |
-| Hard Disk | 240G Taipower/1T Miscellaneous MSATA |
-| Network Card | BCM94360HMB/BCM943224HMP |
-| Bluetooth | BCM20702A0 |
-| Graphics card | HD4000 |
-| System Version | 10.15.7 ～ 12.2beta1 |
+| Hardware     | Hardware      |
+|----------|:-------------------------|
+| CPU     | i5-3320M/i7-3632QM                 |
+| RAM     | 8*8 Dual Channel                |
+| HD    | 240G MSATA     |
+| Network Card     | Bcm94360HMB/Bcm943224HMP |
+| Bluetooth    | Bcm20702A0               |
+| Graphics    | HD4000                   |
+| Version | 10.15.7～12.2Beta1        |
 
 
 ## Supported Versions
