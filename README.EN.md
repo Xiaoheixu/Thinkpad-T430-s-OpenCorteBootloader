@@ -96,10 +96,9 @@ The final version is v0.1.1 to [Release Page] (https://github.com/xiaohehexu/thi
 
 The author is still a hard-working student. The update may be slower, but I can do my best. I may not be satisfied with many people, but I will try to do it.
 
-![image](https://tva1.sinaimg.cn/large/e6c9d24ly1h4ictm8olyj20AF0AH0TI.jpg))
+![image](https://tva1.sinaimg.cn/large/e6c9d24ely1h4ictm8olyj20af0ah0ti.jpg) 
 
-![image](https://tva1.sinaimg.cn/laarge/e6c9d24ly1h4ics9jv5hj20H00hf.jpg)
-
+![image](https://tva1.sinaimg.cn/large/e6c9d24ely1h4ics9jv5hj20h00h0dhf.jpg) 
 
 ## Thanks
 
