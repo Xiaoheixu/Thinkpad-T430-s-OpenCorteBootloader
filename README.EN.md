@@ -45,9 +45,9 @@ MacOS High Sierra 10.13.6 (17G65)
 
 
 ## Recommended Image:
-| No special operation | Need special operations | Difficulty at present |
-| -------------- |: ------------------------------ |
-| 10.1x.x | 12.x/13.x.x | None |
+| Easy | Needs some Work | Difficult |
+|--------------|:-------------|:-------------|
+|10.1x.x| 12.x/13.x.x    |None    |
 
 ## Compatable Model
 
