@@ -65,28 +65,50 @@ The final version is v0.1.1 to [Release Page] (https://github.com/xiaohehexu/thi
 
 ## BIOS Settings
 -Achi mode
+
 -CSM closed
+
 -TV-D Close
+
 -Entreate BIOS version (Xiaobai, please do not operate)
+
 -Base UEFI mode
+
 -Card the independent graphics card
+
 -Staches safety start.
 ## What works
+
 -Uefi Start through CLOVER/OC
+
 -System Updates
+
 -Built-in keyboard
+
 -USB3.0/USB2.0 Ports
+
 -Native audio, including headphones
+
 -Built-in camera
+
 -Power management
+
 -Battery status
+
 -Ethernet Card
+
 -Mac App Store/Apple ID
+
 -CPU frequency
+
 -Waking up from sleep (mouse, keyboard, power keys wake up normal)
+
 -WI-FI (replaced BCM943602CDP)
+
 -Bluetooth (replace BCM943602CDP)
+
 -Tata panel (some gesture support)
+
 -IMESSAGE/FACETIME
 
 ## unable to use the function of normally
