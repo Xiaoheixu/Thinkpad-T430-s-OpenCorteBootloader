@@ -111,7 +111,7 @@ The final version is v0.1.1 to [Release Page] (https://github.com/xiaohehexu/thi
 
 -IMESSAGE/FACETIME
 
-## unable to use the function of normally
+## What doesn't work
 -VGA mini DP microphone, because the mini DP is connected to the disabled NVIDIA professional card, it is impossible
 
 
