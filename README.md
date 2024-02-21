@@ -192,9 +192,9 @@ The author is still a struggling student on campus, and updates may be slower. H
 
 # Credits
 - [Apple](https://www.apple.com) for macOS
-- [acidanthera]（ https://github.com/acidanthera ）The vast majority of core drivers provided
-- [dortania]（ https://github.com/dortania ）Provided patch driver for HD4000
-- [daliansky]（ https://github.com/daliansky ）OC title provided
-- [OpenCore Part Library]（ https://ocbook.tlhub.cn/?q= ）OpenCore components provided
-- [Zhen-zen]（ https://github.com/zhen-zen ）Yoga SMC provided
-- [zxystd]（ https://github.com/OpenIntelWireless ）Intel WI-FI driver provided
+- [acidanthera](https://github.com/acidanthera）The vast majority of core drivers provided
+- [dortania](https://github.com/dortania）Provided patch driver for HD4000
+- [daliansky](https://github.com/daliansky）OC title provided
+- [OpenCore Part Library](https://ocbook.tlhub.cn/?q=）OpenCore components provided
+- [Zhen-zen](https://github.com/zhen-zen）Yoga SMC provided
+- [zxystd](https://github.com/OpenIntelWireless) Intel WI-FI driver provided
