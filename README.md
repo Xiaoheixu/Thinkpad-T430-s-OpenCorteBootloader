@@ -1,6 +1,6 @@
 ![image](https://tva1.sinaimg.cn/large/e6c9d24ely1h4ic1gkvrxj21340u0gqm.jpg)
 
-## Overview
+# Overview
 
 
 
@@ -45,11 +45,10 @@ Blog link: https://macpc.top (Currently closed and expected to reopen in October
 
 
 
-### My configuration:
+# My configuration:
 
 |Hardware | Hardware|
 
-|----------|:-------------------------|
 
 |CPU | i5-3320M/i7-3632QM|
 
@@ -68,7 +67,7 @@ Blog link: https://macpc.top (Currently closed and expected to reopen in October
 
 
 
-#### Applicable system
+# Applicable system
 
 
 
@@ -87,7 +86,7 @@ MacOS High Sierra 10.13.6 (17G65)
 
 
 
-##### Recommended image:
+# Recommended image:
 
 |No special operations required | Special operations required | Currently difficult to deliver|
 
@@ -95,7 +94,7 @@ MacOS High Sierra 10.13.6 (17G65)
 |10.1x.x| 12.x/13.x.x    |None    |
 
 
-##Applicable models
+# Applicable models
 
 
 
@@ -103,7 +102,7 @@ MacOS High Sierra 10.13.6 (17G65)
 
 
 
-##Publish
+# Publish
 
 
 
@@ -111,7 +110,7 @@ The final released version is v0.1.1, go to the [Release Page]（ https://github
 
 
 
-###### What is needed
+# What is needed
 
 -Downloaded MacOS image (supports image installation for macOS High Sierra (10.13.6) - macOS MacOS Ventura)
 
@@ -119,7 +118,7 @@ The final released version is v0.1.1, go to the [Release Page]（ https://github
 
 
 
-##BIOS Ensure Settings
+# BIOS Ensure Settings
 
 -ACHI mode
 
@@ -175,14 +174,14 @@ The final released version is v0.1.1, go to the [Release Page]（ https://github
 
 
 
-######## Functions that cannot be used normally
+# Functions that cannot be used normally
 
 -The VGA MINI DP microphone cannot provide image output due to its connection to a disabled Nvidia professional card (note for standalone versions). The VGA world has no solution, and the microphone has current sound in the macOS Monterey system
 
 
 
 
-##About feeding
+# About feeding
 
 
 
@@ -190,15 +189,12 @@ The author is still a struggling student on campus, and updates may be slower. H
 
 
 
-# Acknowledgement
 
-
-
-Thank you [apple]（ https://www.apple.com）
-
-Thank you [acidanthera]（ https://github.com/acidanthera ）The vast majority of core drivers provided
-Thank you [dortania]（ https://github.com/dortania ）Provided patch driver for HD4000
-Thank you [daliansky]（ https://github.com/daliansky ）OC title provided
-Thank you [OpenCore Part Library]（ https://ocbook.tlhub.cn/?q= ）OpenCore components provided
-Thank you（ https://github.com/zhen-zen ）Yoga SMC provided
-Thank you [zxystd]（ https://github.com/OpenIntelWireless ）Intel WI-FI driver provided
+# Credits
+- [Apple](https://www.apple.com) for macOS
+- [acidanthera]（ https://github.com/acidanthera ）The vast majority of core drivers provided
+- [dortania]（ https://github.com/dortania ）Provided patch driver for HD4000
+- [daliansky]（ https://github.com/daliansky ）OC title provided
+- [OpenCore Part Library]（ https://ocbook.tlhub.cn/?q= ）OpenCore components provided
+- [Zhen-zen]（ https://github.com/zhen-zen ）Yoga SMC provided
+- [zxystd]（ https://github.com/OpenIntelWireless ）Intel WI-FI driver provided
