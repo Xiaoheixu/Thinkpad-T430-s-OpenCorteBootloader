@@ -1,6 +1,6 @@
 ![image](https://tva1.sinaimg.cn/large/e6c9d24ely1h4ic1gkvrxj21340u0gqm.jpg)
 
-##Overview
+## Overview
 
 
 
@@ -45,7 +45,7 @@ Blog link: https://macpc.top (Currently closed and expected to reopen in October
 
 
 
-##My configuration:
+### My configuration:
 
 |Hardware | Hardware|
 
@@ -68,7 +68,7 @@ Blog link: https://macpc.top (Currently closed and expected to reopen in October
 
 
 
-##Applicable system
+#### Applicable system
 
 
 
@@ -87,7 +87,7 @@ MacOS High Sierra 10.13.6 (17G65)
 
 
 
-##Recommended image:
+##### Recommended image:
 
 |No special operations required | Special operations required | Currently difficult to deliver|
 
@@ -111,7 +111,7 @@ The final released version is v0.1.1, go to the [Release Page]（ https://github
 
 
 
-##What is needed
+###### What is needed
 
 -Downloaded MacOS image (supports image installation for macOS High Sierra (10.13.6) - macOS MacOS Ventura)
 
@@ -175,7 +175,7 @@ The final released version is v0.1.1, go to the [Release Page]（ https://github
 
 
 
-##Functions that cannot be used normally
+######## Functions that cannot be used normally
 
 -The VGA MINI DP microphone cannot provide image output due to its connection to a disabled Nvidia professional card (note for standalone versions). The VGA world has no solution, and the microphone has current sound in the macOS Monterey system
 
@@ -190,7 +190,7 @@ The author is still a struggling student on campus, and updates may be slower. H
 
 
 
-##Acknowledgement
+# Acknowledgement
 
 
 
